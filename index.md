@@ -1,8 +1,15 @@
+
 # Portfolio
 
 ---
+<details>
+  <summary><b><u><font size="+10"> Employment and Estimated Salary in the Data Science Field Text</font></u></b></summary>
+  
+ 
+# [Employment and Estimated Salary in the Data Science Field](/sample_page)
 
-## [Employment and Estimated Salary in the Data Science Field](/sample_page)
+---
+---
 
 The field of data has been rapidly changing in recent years.
 Job titles such as Data Analyst, Data Scientist, and Data Engineer may represent synonymous or completely different roles at various companies. I wanted to look at job listings for these three job titles and compare salary, skills etc. 
@@ -22,7 +29,7 @@ There are different skills associated with each of the job titles. SQL tends to 
 
 ---
 ### Models and Conclusions
-[Project 3 Title](http://example.com/)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
