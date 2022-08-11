@@ -10,4 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/alex-stowe-295578138/">View My Spotify</a> 
   
 theme: jekyll-theme-minimal
+background-color: gb(255,255,255);
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
