@@ -3,7 +3,7 @@
 
 ---
 <details>
-  <summary><b><u><font size="+10"> Employment and Estimated Salary in the Data Science Field Text</font></u></b></summary>
+  <summary><b><u><font size="+1"> Employment and Estimated Salary in the Data Science Field </font></u></b></summary>
   
  
 # [Employment and Estimated Salary in the Data Science Field](/sample_page)
