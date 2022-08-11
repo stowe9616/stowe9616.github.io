@@ -2,10 +2,7 @@
 # Portfolio
 
 ---
-<details>
-  <summary><b><u><font size="+1"> Employment and Estimated Salary in the Data Science Field </font></u></b></summary>
-  
- 
+
 # [Employment and Estimated Salary in the Data Science Field](/sample_page)
 
 ---
