@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### [Employment and Estimated Salary in the Data Science Field](/sample_page)
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
