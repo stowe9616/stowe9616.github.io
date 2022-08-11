@@ -4,7 +4,10 @@
 
 ### [Employment and Estimated Salary in the Data Science Field](/sample_page)
 
-[Project 1 Title](/sample_page)
+The field of data has been rapidly changing in recent years
+Job titles such as Data Analyst, Data Scientist, and Data Engineer may represent synonymous or completely different roles at various companies
+The goal of this project is to pull data from Glassdoor (Kaggle source: https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
