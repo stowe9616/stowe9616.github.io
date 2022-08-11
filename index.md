@@ -8,12 +8,10 @@ The field of data has been rapidly changing in recent years.
 Job titles such as Data Analyst, Data Scientist, and Data Engineer may represent synonymous or completely different roles at various companies. 
 
 ## Approach and Summary
-The goal of this project is to pull data from Glassdoor (Kaggle source: https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs) and compare Data Analyst, Data Scientist and Data Engineer job listings in terms of salary, job skills and job locations. 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The goal of this project is to pull data from Glassdoor (Kaggle source: https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs) and compare Data Analyst, Data Scientist and Data Engineer job listings in terms of salary, job skills and job locations. I used RStudio for the data analysis and PowerBI for data visualization. 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+## Data and Data Cleaning
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
